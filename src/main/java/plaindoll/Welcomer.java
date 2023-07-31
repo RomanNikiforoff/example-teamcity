@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String newEra(){
-		return "rabbit is a good hunter to lions";
+		return "rabbit is a good hunter to 5 lions";
 	}
 }
